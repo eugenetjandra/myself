@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(254, 232, 234);
+}
+
+@font-face {
+    font-family: 'CreamPeach';
+    src: url(../Website/asset/CreamPeach.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FifthGrader';
+    src: url(../Website/asset/Fifth-Grader.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pictofMe img {
+    width: 100%;
+    height: 700px;
+}
+
+.experience {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.experienceContent {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+}
+
+.paskibImg {
+    width: 500px;
+    height: 300px;
+}
+
+.paskibImg:hover {
+    content: url(../Website/asset/experience/1.hover.jpg);
+}
+
+.osisImg {
+    width: 500px;
+    height: 300px;
+}
+
+.osisImg:hover {
+    content: url(../Website/asset/experience/2.hover.jpg);
+}
+
+.provokeImg {
+    width: 500px;
+    height: 300px;
+}
+
+.provokeImg:hover {
+    content: url(../Website/asset/experience/3.hover.jpg);
+}
+
+.tulusImg {
+    width: 500px;
+    height: 300px;
+}
+
+.tulusImg:hover {
+    content: url(../Website/asset/experience/5.hover.jpg);
+}
+
+.budcampImg {
+    width: 500px;
+    height: 300px;
+}
+
+.budcampImg:hover {
+    content: url(../Website/asset/experience/6.hover.jpg);
+}
+
+.kmbdImg {
+    width: 500px;
+    height: 300px;
+}
+
+.kmbdImg:hover {
+    content: url(../Website/asset/experience/4.hover.jpg);
+}
+
+.greeting {
+    font-family: FifthGrader;
+    font-size: 80px;
+    color:  rgb(255, 138, 154);
+}
+
+.content {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+    text-align: justify;
+}
+
+.title {
+    font-family: FifthGrader;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.kumpulanProject {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.kumpulanProject img {
+    width: 300px;
+    height: 300px;
+}
+
+.kumpulanProject img:hover {
+    color: rgb(254, 232, 234);
+    opacity: 80%;
+}
+
+.kumpulanProject1 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.kumpulanProject1 img {
+    width: 300px;
+    height: 300px;
+}
+
+.kumpulanProject1 img:hover {
+    color: rgb(254, 232, 234);
+    opacity: 80%;
+}
+
+.footer {
+    width: 100%;
+    height: 180px;
+    font: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 209, 220);
+}
+
+.sosmed a img {
+    width: 55px;
+    height: 55px;
+    padding-bottom: 10px;
+}
+
+.sosmed a:hover {
+    color: white;
+    opacity: 80%;
+}
+
