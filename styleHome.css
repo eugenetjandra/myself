@@ -6,14 +6,14 @@ body {
 
 @font-face {
     font-family: 'CreamPeach';
-    src: url(../Website/asset/CreamPeach.ttf);
+    src: url(asset/CreamPeach.ttf);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'FifthGrader';
-    src: url(../Website/asset/Fifth-Grader.ttf);
+    src: url(asset/Fifth-Grader.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -42,7 +42,7 @@ body {
 }
 
 .paskibImg:hover {
-    content: url(../Website/asset/experience/1.hover.jpg);
+    content: url(asset/experience/1.hover.jpg);
 }
 
 .osisImg {
@@ -51,7 +51,7 @@ body {
 }
 
 .osisImg:hover {
-    content: url(../Website/asset/experience/2.hover.jpg);
+    content: url(asset/experience/2.hover.jpg);
 }
 
 .provokeImg {
@@ -60,7 +60,7 @@ body {
 }
 
 .provokeImg:hover {
-    content: url(../Website/asset/experience/3.hover.jpg);
+    content: url(asset/experience/3.hover.jpg);
 }
 
 .tulusImg {
@@ -69,7 +69,7 @@ body {
 }
 
 .tulusImg:hover {
-    content: url(../Website/asset/experience/5.hover.jpg);
+    content: url(asset/experience/5.hover.jpg);
 }
 
 .budcampImg {
@@ -78,7 +78,7 @@ body {
 }
 
 .budcampImg:hover {
-    content: url(../Website/asset/experience/6.hover.jpg);
+    content: url(asset/experience/6.hover.jpg);
 }
 
 .kmbdImg {
@@ -87,7 +87,7 @@ body {
 }
 
 .kmbdImg:hover {
-    content: url(../Website/asset/experience/4.hover.jpg);
+    content: url(asset/experience/4.hover.jpg);
 }
 
 .greeting {
